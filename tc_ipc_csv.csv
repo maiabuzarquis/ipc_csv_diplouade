@@ -1,7 +1,7 @@
-Tipo,Anio,IPC_General_Promedio,TC_oficial_promedio_anual
-Total,2016,341.99,14.78
-Total,2017,436.28,16.57
-Total,2018,584.42,28.09
-Total,2019,883.16,48.24
-Total,2020,1211.11,70.59
-Parcial,2021,1592.16,93.39
+Tipo,Anio,IPC_General_Promedio,TC_oficial_promedio_anual,Aumento_IPC,Prop_aumento_IPC,Aumento_TC,Prop aumento_TC_anual
+Total,2016,341.99,14.78,0,0,0,0
+Total,2017,436.28,16.57,94.29,0.22,1.79,0.11 
+Total,2018,584.42,28.09, 148.13,0.25,11.53,0.41 
+Total,2019,883.16,48.24, 298.75,0.34,20.15,0.42 
+Total,2020,1211.11,70.59, 327.94,0.27,22.35,0.32 
+Parcial,2021,1592.16,93.39,381.06,0.24,22.80,0.24 
