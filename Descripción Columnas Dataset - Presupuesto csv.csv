@@ -1,0 +1,42 @@
+﻿Nombre,Tipo,Descripción
+Car,integer,Código de carácter
+Car_desc,string,Cada uno de los agrupamientos en que se divide el Subsector Administración Gubernamental del Sector Público Gubernamental no Financiero.
+Jur,integer,Código de jurisdicción 1
+Jur_desc,string,Son las organizaciones públicas sin personalidad jurídica que representan a cada uno de los poderes establecidos por la Constitución de Ciudad Autónoma de Buenos Aires.
+subj,integer,Código de subjicción
+Sjur_desc,string,Unidades institucionales que pertenecen a una Jurisdicción que surgen de criterios de ordenamientos en la estructura organizativa del GCBA.
+Ent,integer,Código de entidad 2
+Ent_desc,string,"Toda organización pública con personería jurídica y patrimonio propio, se trate de empresas o sociedades y organismos descentralizados"
+Og,integer,Código de oficinas de gestión sectorial
+Og_desc,string,Oficinas de gestión sectorial
+UE,integer,Código de nidad ejecutoria 3
+UE_desc,string,"Centro administrativo responsable de la planificación, programación, asignación formal y utilización de recursos en función de una producción o provisión de bienes y servicios determinada"
+Prog,integer,Código de programa 3
+Prog_desc,string,"Dentro de la clasificación de Categorías Programáticas, el Programa representa una asignación formal de recursos, físicos y financieros, que tiene a su cargo la producción"
+Sprog,integer,Código de suprograma 3
+Sprog_desc,string,Es un centro formal de asignación de recursos que tiene por finalidad precisar con un mayor grado de desagregación la producción del programa que le da origen
+Proy,integer,Código de proyecto 3
+Proy_desc,string,"Dentro de la clasificación por Categoría Programática, el proyecto es el proceso de producción de un bien de capital destinado a crear, ampliar o modernizar la capacidad de oferta"
+Act,integer,Código de actividad 3
+Act_desc,string,"Dentro de la clasificación por Categoría Programática, la Actividad refleja los procesos contenidos en las acciones presupuestarias de mínimo nivel cuya producción es intermedia."
+Ob,integer,Código de obra 3
+Ob_desc,string,"Dentro de la clasificación por Categoría Programática, la obra representa una de las desagregaciones de los proyectos."
+Fin,integer,Código de finalidad 1
+Fin_desc,string,Es un criterio de clasificación del gasto según la naturaleza de los servicios que prestan las instituciones públicas a la comunidad.
+Fun,integer,Código de función 1
+Fun_desc,string,Es el nivel de cuentas dentro de la clasificación del gasto por Finalidad y Función que permite examinar en el tiempo las tendencias del gasto para las funciones generales del Gobierno
+Inc,integer,Código de inciso 1
+Inc_desc,string,Nivel superior de los cuatro niveles de cuentas que conforman el Objeto de Gasto
+Ppal,integer,Código de partida principal 1
+Ppal_desc,string,Es el nivel de segundo grado de cuentas dentro de las cuatro que conforman el objeto de gasto
+Par,integer,Código de partida parcial 1
+Par_desc,string,Es el nivel de tercer grado de cuentas dentro de las cuatro que conforman el objeto de gasto
+Spar,integer,Código de partida subparcial 1
+Spar_desc,string,Es el nivel de minimo grado de cuentas dentro de las cuatro que conforman el objeto de gasto
+Eco,integer,Código de clasificador económico 1
+Eco_desc,string,La clasificación económica del gasto permite identificar la naturaleza económica de las transacciones que realiza el Sector Público
+Fte,integer,Código de fuente de financiamiento 1
+Fte_desc,string,"Consiste en la clasificación de los gastos públicos según los tipos genéricos de recursos empleados para su financiamiento, es decir que identifica el gasto según los ingresos que lo financian"
+Geo,integer,Código de ubicación geográfica 1
+Geo_desc,string,La clasificación por ubicación geográfica establece la distribución espacial de las transacciones económico-financieras que realizan los organismos del Sector Público
+Sancion,integer,Es el crédito aprobado por Ley de Presupuesto para cada ejercicio por La Legislatura de la Ciudad Autónoma de Buenos Aires y promulgado mediante decreto por el Poder Ejecutivo
